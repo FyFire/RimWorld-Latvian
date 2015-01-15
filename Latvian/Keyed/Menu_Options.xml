@@ -3,40 +3,40 @@
 
   <!-- Audiovisuals -->
   <Audiovisuals>Audiovisuals</Audiovisuals>
-  <GameVolume>Game volume</GameVolume>
-  <MusicVolume>Music volume</MusicVolume>
-  <GraphicsQuality>Graphics quality</GraphicsQuality>
-  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
-  <GraphicsQualityGreat>Great</GraphicsQualityGreat>
+  <GameVolume>Spēles skaļums</GameVolume>
+  <MusicVolume>Mūzikas skaļums</MusicVolume>
+  <GraphicsQuality>Grafikas kvalitāte</GraphicsQuality>
+  <GraphicsQualityNormal>Normāla</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Lieliska</GraphicsQualityGreat>
 
   
   <!-- Gameplay -->
   <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
-  <CustomCursor>Custom cursor</CustomCursor>
-  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
-  <ChooseLanguage>Choose language</ChooseLanguage>
-  <AdaptiveTutor>Adaptive tutor</AdaptiveTutor>
-  <ResetAdaptiveTutor>Reset adaptive tutor</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Adaptive tutor is reset. He will now teach you from scratch.</AdaptiveTutorIsReset>
-  <RunInBackground>Run in background</RunInBackground>
-  <DevelopmentMode>Development mode</DevelopmentMode>
+  <CustomCursor>Pašizvēlēts kursors</CustomCursor>
+  <KeyboardConfig>Klaviatūras konfigurācija</KeyboardConfig>
+  <ChooseLanguage>Izvēlēties valodu</ChooseLanguage>
+  <AdaptiveTutor>Spēles gids</AdaptiveTutor>
+  <ResetAdaptiveTutor>Atjaunot gidu</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Gids ir atjaunots. Gids jūs apmācīs no paša sākuma.</AdaptiveTutorIsReset>
+  <RunInBackground>Palaist fonā</RunInBackground>
+  <DevelopmentMode>Izstrādātāja režīms</DevelopmentMode>
   <LogVerbose>Verbose logging</LogVerbose>
-  <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
+  <OpenSaveGameDataFolder>Atvērt saglabāto datu mapi</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
-  <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
+  <ChangeStoryteller>Izvēlies stāstītāju</ChangeStoryteller>
   
   <!-- Resolution -->
-  <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
-  <CurrentRes>Currently {0}</CurrentRes>
-  <ChooseResolution>Choose resolution</ChooseResolution>
+  <Resolution>Ekrāna izmērs</Resolution>
+  <Fullscreen>Pilna ekrāna režīms</Fullscreen>
+  <CurrentRes>Šobrīd {0}</CurrentRes>
+  <ChooseResolution>Izvēlies ekrāna izmēru</ChooseResolution>
 
   
   <!-- Privacy-->
-  <Privacy>Privacy</Privacy>
-  <UserName>User name</UserName>
+  <Privacy>Privātums</Privacy>
+  <UserName>Lietotājvārds</UserName>
   <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
-  <CurrentHistoryUploadPref>Currently {0}</CurrentHistoryUploadPref>
-  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  <CurrentHistoryUploadPref>Šobrīd {0}</CurrentHistoryUploadPref>
+  <AboutHistoryUpload>Lietotāja speles dati palīdz izstrādātājiem balancēt spēli.Ja Jūs piekrītat, Jūsu informācija tiks nosūtīta katrā {0} spēles dienā (un citos retos gadījumos, piemēram, kad pabeidzat spēli) uz RimWorld serveri un tad tiks analizēti. Augšuppielādētie spēles dati iekļauj tika statistikas un vēstures ierakstus sakarā ar spēli - privāta informācija netiek nosūtīta, izņemot lietotājvārdu, kas nozīmē ka viss notiek pilnībā anonīmi.</AboutHistoryUpload>
   
 </LanguageData>
