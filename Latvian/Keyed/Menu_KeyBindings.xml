@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <SaveButton>Save</SaveButton>
+  <SaveButton>Saglabāt</SaveButton>
   <!--<CancelButton>Cancel</CancelButton>-->
-  <ClearBinding>Clear</ClearBinding>
-  <ResetBinding>Reset to default</ResetBinding>
-  <BindingButtonToolTip>Left-click to bind this key or right-click for options</BindingButtonToolTip>
-  <PressAnyKeyOrEsc>Press any key or Esc to cancel...</PressAnyKeyOrEsc>
+  <ClearBinding>Notīrīt</ClearBinding>
+  <ResetBinding>Atjaunot uz sākuma iestatījumiem</ResetBinding>
+  <BindingButtonToolTip>Kreisais klikšķis lai siastītu šo taustiņu vai arī Labais klikšķis priekš opcijām</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Nospiediet jebkuru taustiņu vai Esc lai atceltu...</PressAnyKeyOrEsc>
 
 </LanguageData>
