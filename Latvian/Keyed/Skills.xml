@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>Level</Level>
-  <ProgressToNextLevel>Progress to next level</ProgressToNextLevel>
-  <Passion>Passion</Passion>
+  <Level>Līmenis</Level>
+  <ProgressToNextLevel>Progress līdz nākamajam līmenim</ProgressToNextLevel>
+  <Passion>Aizraušanās</Passion>
   <PassionNone>None (learns {0}x)</PassionNone>
-  <PassionMinor>Interested (learns {0}x)</PassionMinor>
-  <PassionMajor>Burning (learns {0}x)</PassionMajor>
+  <PassionMinor>Ieinteresēts (mācās {0}x)</PassionMinor>
+  <PassionMajor>Iekarsis (mācas {0}x)</PassionMajor>
   <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
 

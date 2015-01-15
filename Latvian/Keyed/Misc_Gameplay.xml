@@ -2,80 +2,80 @@
 <LanguageData>
 
   <!-- Various -->
-  <WorkLeft>Work left</WorkLeft>
+  <WorkLeft>Atlikušais darbs</WorkLeft>
   <Contents>Contents</Contents>
   <ContainedResources>Contained resources</ContainedResources>
-  <ForPrisonerUse>For prisoner use</ForPrisonerUse>
-  <ForColonistUse>For colonist use</ForColonistUse>
+  <ForPrisonerUse>Priekš cietumniekiem</ForPrisonerUse>
+  <ForColonistUse>Priekš kolonistiem</ForColonistUse>
   <MedicalBed>Medical</MedicalBed>
-  <Owner>Owner</Owner>
-  <Nobody>Nobody</Nobody>
-  <Unowned>Unowned</Unowned>
-  <DeadTime>Dead {0}</DeadTime>
-  <WalkSpeed>walk speed {0}</WalkSpeed>
-  <DyingLower>dying</DyingLower>
+  <Owner>Īpašnieks</Owner>
+  <Nobody>Neviens</Nobody>
+  <Unowned>Nepiederošs</Unowned>
+  <DeadTime>Beigts {0}</DeadTime>
+  <WalkSpeed>Iešanas ātrums {0}</WalkSpeed>
+  <DyingLower>mirst</DyingLower>
   <FilthOnFeet>Filth on feet:</FilthOnFeet>
   <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
-  <NothingLower>nothing</NothingLower>
+  <NothingLower>nekas</NothingLower>
   <Adapted>Adapted</Adapted>
-  <Headshot>Headshot</Headshot>
-  <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
-  <UntreatedLower>untreated</UntreatedLower>
-  <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
+  <Headshot>Trāpīts galvā</Headshot>
+  <FreshMissingBodyPart>svaigs</FreshMissingBodyPart>
+  <UntreatedLower>neapkopts</UntreatedLower>
+  <DevelopedImmunityLower>ieguvis immunitāti</DevelopedImmunityLower>
   <InjuryRequiresTreatment>requires treatment to heal</InjuryRequiresTreatment>
   <NextTreatmentAfter>next treatment after {0} days</NextTreatmentAfter>
   <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
   <ImmunityDevelopmentProgress>immunity development progress</ImmunityDevelopmentProgress>
   <Race>Race</Race>
-  <Description>Description</Description>
-  <Equipment>Equipment</Equipment>
+  <Description>Apraksts</Description>
+  <Equipment>Ekipējums</Equipment>
   <Apparel>Apparel</Apparel>
   <Inventory>Inventory</Inventory>
-  <ThingInfo>Information</ThingInfo>
-  <DropThing>Drop</DropThing>
-  <RenameColonist>Rename colonist</RenameColonist>
-  <UnknownLower>unknown</UnknownLower>
+  <ThingInfo>Informācija</ThingInfo>
+  <DropThing>Nomest</DropThing>
+  <RenameColonist>Pārsaukt kolonistu</RenameColonist>
+  <UnknownLower>nezināms</UnknownLower>
   
   <!-- Snow -->
-  <SnowNone>No snow</SnowNone>
-  <SnowDusting>Snow (dusting)</SnowDusting>
-  <SnowThin>Snow (thin)</SnowThin>
-  <SnowMedium>Snow (medium)</SnowMedium>
-  <SnowThick>Snow (thick)</SnowThick>
+  <SnowNone>Nav sniega</SnowNone>
+  <SnowDusting>Sniegs (dusting)</SnowDusting>
+  <SnowThin>Sniegs (plāns)</SnowThin>
+  <SnowMedium>Sniegs (vidēji daudz)</SnowMedium>
+  <SnowThick>Sniegs (biezs)</SnowThick>
 
   
   <!-- Turrets -->
-  <GunInstalled>Installed</GunInstalled>
-  <MinimumRange>Minimum range</MinimumRange>
+  <GunInstalled>Installēts</GunInstalled>
+  <MinimumRange>Minimāls redzes loks</MinimumRange>
   <CanFireIn>Can fire in</CanFireIn>
   
   
   <!-- Job reports -->
 	<ReportHaulingTo>Hauling {0} to {1}.</ReportHaulingTo>
 	<ReportHauling>Hauling {0}.</ReportHauling>
-  <ReportSleeping>Sleeping.</ReportSleeping>
-  <ReportResting>Resting.</ReportResting>
+  <ReportSleeping>Guļ.</ReportSleeping>
+  <ReportResting>Atpūšās.</ReportResting>
   
 	<!-- Shooting report -->
   <WeaponMissRadius>Weapon miss radius</WeaponMissRadius>
 	<ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
-	<ShootReportWeapon>Weapon</ShootReportWeapon>
-	<Darkness>Darkness</Darkness>
+	<ShootReportWeapon>Ierocis</ShootReportWeapon>
+	<Darkness>Tumsa</Darkness>
 	<TargetProne>Target prone</TargetProne>
 	<TargetSize>Target size</TargetSize>
-	<Weather>Weather</Weather>
+	<Weather>Laikapstakļi</Weather>
 	<ShootingCover>Cover</ShootingCover>
 	<CoverThingBlocksPercentOfShots>{0} stops {1}</CoverThingBlocksPercentOfShots>
 	<NoCoverLower>no cover</NoCoverLower>
 	
   <!-- Generated recipes -->
-  <RecipeMake>Make {0}</RecipeMake>
-  <RecipeMakeJobString>Making {0}.</RecipeMakeJobString>
+  <RecipeMake>Izveidot {0}</RecipeMake>
+  <RecipeMakeJobString>Veido {0}.</RecipeMakeJobString>
   
 	<!-- Status levels -->
-  <Mood>Mood</Mood>
+  <Mood>Garastāvoklis</Mood>
   <MoodTip>Mood is sustained by fulfilling physical and psychological needs.\n\nIf someone's mood gets too low, they may suffer a mental break.</MoodTip>
-  <Food>Food</Food>
+  <Food>Ēdiens</Food>
   <FoodTip>Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will take starvation damage over time.</FoodTip>
   <Rest>Rest</Rest>
   <RestTip>Rest is how much quality relaxation and sleep a person gets.\n\nIt rises to a maximum when someone sleeps in a bed. Outside of bed, it falls over time.</RestTip>
@@ -92,14 +92,14 @@
 
 
   <!-- Pawn info readout -->
-  <Health>Health</Health>
+  <Health>Veselība</Health>
   <PawnMainDescWithFactionGendered>{0} {1} of {2}</PawnMainDescWithFactionGendered>
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
   <PawnMainDescWithFactionGenderless>{0} of {1}</PawnMainDescWithFactionGenderless>
   <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
   <Faction>Faction</Faction>
   <Equipped>Equipped</Equipped>
-  <EquippedNothing>Nothing</EquippedNothing>
+  <EquippedNothing>Nekas</EquippedNothing>
   <Incapacitated>Incapacitated</Incapacitated>
   <InRestraints>In restraints (slowed)</InRestraints>
   <Carrying>Carrying</Carrying>
@@ -131,12 +131,12 @@
   <PowerConsumptionLow>Low</PowerConsumptionLow>
   
   <!-- Temperature readout -->
-  <Indoors>Indoors</Indoors>
-  <Outdoors>Outdoors</Outdoors>
+  <Indoors>Ikšā</Indoors>
+  <Outdoors>Ārpusē</Outdoors>
   
   <!--Rotting-->
-	<RotStateFresh>Fresh</RotStateFresh>
-	<RotStateRotting>Rotting</RotStateRotting>
+	<RotStateFresh>Svaigs</RotStateFresh>
+	<RotStateRotting>Sapuvis</RotStateRotting>
 	<RotStateDessicated>Dessicated</RotStateDessicated>
 	
   <!-- Shooting tooltip -->
@@ -153,25 +153,25 @@
 
 
   <!-- Rotting -->
-  <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
+  <CurrentlyFrozen>Sasalis (nesabojāsies)</CurrentlyFrozen>
   <CurrentlyRefrigerated>Refrigerated (Spoils in {0})</CurrentlyRefrigerated>
   <NotRefrigerated>Not refrigerated (Spoils in {0})</NotRefrigerated>
   <OverADecade>over a decade</OverADecade>
   
   <!-- Meal -->
-  <Ingredients>Ingredients</Ingredients>
+  <Ingredients>Sastāvdaļas</Ingredients>
 
   <!-- Plants -->
-  <PercentGrowth>{0}% growth</PercentGrowth>
-  <Growing>Growing</Growing>
-  <NotGrowingNow>Not growing now (needs to be {0}).</NotGrowingNow>
+  <PercentGrowth>{0}% izaudzis</PercentGrowth>
+  <Growing>Aug</Growing>
+  <NotGrowingNow>Šobrīd neaug (needs to be {0}).</NotGrowingNow>
   <NotGrowingNowNight>Not growing now (night time).</NotGrowingNowNight>
   <FullyGrownIn>Fully grown in {0} of growth.</FullyGrownIn>
   <OutOfIdealTemperatureRange>Out of ideal temperature range (growing at {0}% of normal speed)</OutOfIdealTemperatureRange>
   <OutOfIdealTemperatureRangeNotGrowing>Out of ideal temperature range (not growing)</OutOfIdealTemperatureRangeNotGrowing>
-  <ReadyToHarvest>Ready to harvest.</ReadyToHarvest>
+  <ReadyToHarvest>Gatavs novākšanai to harvest.</ReadyToHarvest>
   <Mature>Mature.</Mature>
-  <SeedLabel>{0} seed</SeedLabel>
+  <SeedLabel>{0} sēkla</SeedLabel>
   <OutdoorGrowingPeriod>Growing period: {0}</OutdoorGrowingPeriod>
   <NoGrowingPeriod>Never</NoGrowingPeriod>
   <GrowYearRound>Year-round</GrowYearRound>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-<DaysLower>days</DaysLower>
-<SecondsLower>seconds</SecondsLower>
+<DaysLower>dienas</DaysLower>
+<SecondsLower>sekundes</SecondsLower>
 
-<SeasonSpring>Spring</SeasonSpring>
-<SeasonSummer>Summer</SeasonSummer>
-<SeasonFall>Fall</SeasonFall>
-<SeasonWinter>Winter</SeasonWinter>
+<SeasonSpring>Pavasaris</SeasonSpring>
+<SeasonSummer>Vasara</SeasonSummer>
+<SeasonFall>Rudenis</SeasonFall>
+<SeasonWinter>Ziema</SeasonWinter>
 
 </LanguageData>

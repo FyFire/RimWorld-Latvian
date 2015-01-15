@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Prohis>his</Prohis>
-  <Proher>her</Proher>
-  <ProhisCap>His</ProhisCap>
-  <ProherCap>Her</ProherCap>
+  <Prohis>viņa</Prohis>
+  <Proher>viņas</Proher>
+  <ProhisCap>Viņa</ProhisCap>
+  <ProherCap>Viņas</ProherCap>
 
-  <ProhimObj>him</ProhimObj>
-  <ProherObj>her</ProherObj>
-  <ProhimObjCap>Him</ProhimObjCap>
-  <ProherObjCap>Her</ProherObjCap>
+  <ProhimObj>viņu</ProhimObj>
+  <ProherObj>viņu</ProherObj>
+  <ProhimObjCap>Viņu</ProhimObjCap>
+  <ProherObjCap>Viņu</ProherObjCap>
 
-  <Prohe>he</Prohe>
-  <Proshe>she</Proshe>
-  <ProheCap>He</ProheCap>
-  <ProsheCap>She</ProsheCap>
+  <Prohe>viņš</Prohe>
+  <Proshe>viņa</Proshe>
+  <ProheCap>Viņš</ProheCap>
+  <ProsheCap>Viņa</ProsheCap>
   
 
 
