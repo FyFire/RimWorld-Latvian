@@ -4,35 +4,35 @@
   <Level>Līmenis</Level>
   <ProgressToNextLevel>Progress līdz nākamajam līmenim</ProgressToNextLevel>
   <Passion>Aizraušanās</Passion>
-  <PassionNone>None (learns {0}x)</PassionNone>
+  <PassionNone>Nekas (learns {0}x)</PassionNone>
   <PassionMinor>Ieinteresēts (mācās {0}x)</PassionMinor>
   <PassionMajor>Iekarsis (mācas {0}x)</PassionMajor>
-  <EffectsAtLevel>Effects at level {0}</EffectsAtLevel>
+  <EffectsAtLevel>Effekti līmenī {0}</EffectsAtLevel>
   <SkillMax>MAX</SkillMax>
 
 
 
-  <Skill0>Incapable</Skill0>
-  <Skill1>Incompetent</Skill1>
-  <Skill2>Basic awareness</Skill2>
-  <Skill3>Basic familiarity</Skill3>
-  <Skill4>Amateur</Skill4>
-  <Skill5>Strong amateur</Skill5>
-  <Skill6>Practitioner</Skill6>
-  <Skill7>Skilled practitioner</Skill7>
-  <Skill8>Professional</Skill8>
-  <Skill9>Skilled professional</Skill9>
-  <Skill10>Expert</Skill10>
-  <Skill11>Strong expert</Skill11>
-  <Skill12>Very strong expert</Skill12>
-  <Skill13>Master</Skill13>
-  <Skill14>Strong master</Skill14>
-  <Skill15>Planet-class master</Skill15>
-  <Skill16>System-class master</Skill16>
-  <Skill17>Revered master</Skill17>
-  <Skill18>Visionary</Skill18>
-  <Skill19>Legendary</Skill19>
-  <Skill20>Godlike</Skill20>
+  <Skill0>Nespējīgs</Skill0>
+  <Skill1>Nekompetents</Skill1>
+  <Skill2>Pamata informētība</Skill2>
+  <Skill3>Pamata saprašana</Skill3>
+  <Skill4>Amatieris</Skill4>
+  <Skill5>Augsts amatieris</Skill5>
+  <Skill6>Praktikants</Skill6>
+  <Skill7>Prasmīgs praktikants</Skill7>
+  <Skill8>Profesionālis</Skill8>
+  <Skill9>Prasmīgs profesionālis</Skill9>
+  <Skill10>Eksperts</Skill10>
+  <Skill11>Augts eksperts</Skill11>
+  <Skill12>Ļoti augsts eksperts</Skill12>
+  <Skill13>Meistars</Skill13>
+  <Skill14>Spēcīgs meistars</Skill14>
+  <Skill15>Planētas mēra meistars</Skill15>
+  <Skill16>Sistēmas mēra meistars</Skill16>
+  <Skill17>Pārākais meistars</Skill17>
+  <Skill18>Fantastisks</Skill18>
+  <Skill19>Leģendārs</Skill19>
+  <Skill20>Dievišķīgs</Skill20>
 
 
   
