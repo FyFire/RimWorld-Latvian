@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>Atcelt</DesignatorCancel>
+  <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Nogriezt augus</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Atzīmē augus ko nogriezt vai iznīcināt. Augs tiks pilnībā iznīcināts, un ēdiens savākts.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Nojaukt</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Nojaukt objektus un savākt daļu no to resursiem.</DesignatorDeconstructDesc>
+
+  <DesignatorHarvest>Novākt ražu</DesignatorHarvest>
+  <DesignatorHarvestDesc>Atzīmēt augus lai tos novāktu Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Nocirst kokus</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Atzīmēt kokus kurus nepieciešams nocirst.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Transportēt lietas</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>Nav ko transportēt</NothingToHaulHere>
+  <MustHaulHaulables>Var atzīmēt tikai objektus kam nav funkcijas, piemeram, akmens gabalus.</MustHaulHaulables>
+
+  <DesignatorHunt>Medīt</DesignatorHunt>
+  <DesignatorHuntDesc>Iezīmēt dzīvniekus kurus medīs jūsu mednieki.</DesignatorHuntDesc>
+
+  <DesignatorMine>Rakt</DesignatorMine>
+  <DesignatorMineDesc>Iezīmēt reģionu no akmens, kas paredzēts rakšanai.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Smooth floor</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Designate rough stone floors to be smoothed.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Plānot</DesignatorPlan>
+  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Dzēst plānus</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+
+  <DesignatorHomeRegionAdd>Atzīmēt Mājas Reģionu</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home region.</DesignatorHomeRegionAddDesc>
+
+  <DesignatorHomeRegionRemove>Dzēst Mājas Reģionu</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Removes a home region. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorHomeRegionRemoveDesc>
+
+  <DesignatorRegionNoRoofAdd>Atzīmēt Bez Jumta Reģionu</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Create a region where roofs will not generate. Colonists will also tear down existing roofs here.</DesignatorRegionNoRoofAddDesc>
+
+  <DesignatorRegionNoRoofRemove>Dzēst Bez Jumta Reģionu</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Removes a no-roof region. Roofs will generate here, and existing roofs will not be torn down.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorRegionSnowClearAdd>Atzīmēt Bez Sniega Reģionu</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Izveidot reģionu kuru kolonisti centīsies attīrīt no sniega.</DesignatorRegionSnowClearAddDesc>
+
+  <DesignatorRegionSnowClearRemove>Dzēst Bez Sniega Reģionu</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Removes a snow clearing. Colonists will no longer try to keep this area clear of snow.</DesignatorRegionSnowClearRemoveDesc>
+
+  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Dzēst reģionus</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Dzēst reģionus kā krātuvi vai audzēšanas reģionu.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>Piesavināt</DesignatorClaim>
+  <DesignatorClaimDesc>Piesavināt neitrālas ēkas savai kolonijai,ieskaitot senas drupas un pamestas kara bāzes. Piesavinātas ēkas var tikt salabotas un sakoptas ar jūsu kolonistu palīdzību.</DesignatorClaimDesc>
+  
+  
+  <!-- placement of blueprints -->
+  <UnchosenStuff>Neizvēlēti materiāli</UnchosenStuff>
+  <TooCloseToMapEdge>Pārāk tuvu kartes malai.</TooCloseToMapEdge>
+  <OutOfBounds>Ārpus robežām.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Nevar novietot neizpētītā apgabalā.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Interaction spot is blocked by {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Interaction spot is out of bounds.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} would block {1}'s interaction square.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
+  <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
+
+  
+  
+  <!-- placement of zones -->
+  <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
+  <CreateNewZone>Izveidot jaunu {0}</CreateNewZone>
+  
+  
+  <!-- desc helpers -->
+  <TransmitsPower>Transmits power</TransmitsPower>
+
+
+</LanguageData>

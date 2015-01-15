@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Darbi</TabBills>
+  <TabGrowing>Growing</TabGrowing>
+  <TabCharacter>Character</TabCharacter>
+  <TabPrisoner>Prisoner</TabPrisoner>
+  <TabGear>Gear</TabGear>
+  <TabThoughts>Domas</TabThoughts>
+  <TabStorage>Noliktava</TabStorage>
+  <TabHealth>Veselība</TabHealth>
+  <TabRace>Rase</TabRace>
+  <TabBasics>Basics</TabBasics>
+  <TabStats>Stats</TabStats>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Pievienot darbu</AddBill>
+  <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
+  <BillConfig>Konfigurācija</BillConfig>
+  <SuspendedCaps>SUSPENDED</SuspendedCaps>
+  <PlantVerb>Stādīt</PlantVerb>
+
+
+  <!-- Prisoner tab -->
+  <RecruitmentDifficulty>Recruitment difficulty</RecruitmentDifficulty>
+  <PrisonerGetsFood>Dabū ēdienu</PrisonerGetsFood>
+  <DoctorsCare>Daktera uzmanība</DoctorsCare>
+  <PrisonerGetsMedicine>Dabū medikamentus</PrisonerGetsMedicine>
+  <ShouldTryToRecruit>Mēģināt savervēt</ShouldTryToRecruit>
+  <PrisonerNoInteraction>No interaction</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Draudzīga saruna</PrisonerFriendlyChat>
+  <PrisonerRelease>Atbrīvot</PrisonerRelease>
+  <PrisonerExecution>Nāves spriedums</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Iešanas ātrums</MoveSpeed>
+  <Efficiency>Efektivitāte</Efficiency>
+  <MissingBodyPart>Pazudis</MissingBodyPart>
+  <DestroyedBodyPart>Iznīcināts</DestroyedBodyPart>
+  <ShatteredBodyPart>Sašķaidīts</ShatteredBodyPart>
+  <RemovedBodyPart>Noņemts</RemovedBodyPart>
+  <Healthy>Veselīgs</Healthy>
+  <InPain>Sāpēs</InPain>
+  <PainLevel>Sāpes</PainLevel>
+  <Dead>Miris</Dead>
+  <Unconscious>Bezsamaņā</Unconscious>
+  <PainShock>Šoka stāvoklī</PainShock>
+  <Injured>Savainots</Injured>
+  <NoInjuries>(nav ievainojumu)</NoInjuries>
+  <WholeBody>Viss ķermenis</WholeBody>
+  <DataProcessing>Data processing</DataProcessing>
+  <Communication>Communication</Communication>
+  <AffectsLower>affects</AffectsLower>
+  <BleedingRate>Asiņošanas temps</BleedingRate>
+  <HealthOverview>Apskats</HealthOverview>
+  <MedicalOperationsShort>Operācijas ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifikācijas ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medicīniskās operācijas</MedicalOperations>
+  <Amputate>Amputēt</Amputate>
+  <Harvest>Ievākt</Harvest>
+  
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>Nav</None>
+  <VeryPoor>Ļoti švaki</VeryPoor>
+  <Poor>Švaki</Poor>
+  <Weakened>Novājināts</Weakened>
+  <GoodCondition>Labi</GoodCondition>
+  <Enhanced>Uzlabots</Enhanced>
+  <SeriouslyImpaired>Nopietni traucējumi</SeriouslyImpaired>
+  <Impaired>Traucējumi</Impaired>
+  <SlightlyImpaired>Viegli traucējumi</SlightlyImpaired>
+  <NoPain>Nav</NoPain>
+  <LittlePain>Mazliet</LittlePain>
+  <MediumPain>Videji</MediumPain>
+  <SeverePain>Smagi</SeverePain>
+  <ExtremePain>Traki</ExtremePain>
+
+
+
+
+
+
+
+
+</LanguageData>

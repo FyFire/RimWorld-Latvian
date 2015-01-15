@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+	<CallOnRadio>Call {0}</CallOnRadio>
+	<CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
+	<CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
+	<CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
+  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
+  <CannotUseFull>Cannot use (full)</CannotUseFull>
+  
+  <FireAt>Šaut uz {0}</FireAt>
+
+  <OutOfRange>ārpus redzes loka</OutOfRange>
+  <CannotHitTarget>nevar trāpīt mērķim</CannotHitTarget>
+  <CannotFight>{0} nevar cīnīties</CannotFight>
+
+  <OrderManThing>Man {0}</OrderManThing>
+  
+  <MeleeAttack>Tuvcīņas uzbrukums {0}</MeleeAttack>
+  <MeleeAttackToDeath>Tuvcīņas uzbrukums {0} līdz nāvei</MeleeAttackToDeath>
+  <NoPath>nav ceļa</NoPath>
+
+	<ForbiddenLower>aizliegts</ForbiddenLower>
+	<SociallyImproperLower>socially improper</SociallyImproperLower>
+  <PrisonerRoomLower>cietums</PrisonerRoomLower>
+	<BurningLower>degošs</BurningLower>
+	<NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
+	<AlreadyFilledLower>jau pietiekami piepildīts</AlreadyFilledLower>
+	<MissingMaterials>vajadzīgi materiāli</MissingMaterials>
+	
+	
+  <CannotGoNoPath>Nevar tikt(nac ceļa)</CannotGoNoPath>
+  <GoHere>Doties šeit</GoHere>
+  
+  <Arrest>Arestēt {0}</Arrest>
+  <CannotArrest>Nevar arrestēt</CannotArrest>
+
+  <Capture>Noķert {0}</Capture>
+  <CannotCapture>Nevar noķert</CannotCapture>
+
+  <Rescue>Izglābt {0}</Rescue>
+  <CannotRescue>Nevar izglābt</CannotRescue>
+
+  <CarryToCryptosleepCasket>Aiznest {0} uz kriptomiega zārku</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Nevar aiznest uz kriptomiega zārku</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Kriptomiega zārks nav pieejams</NoCryptosleepCasket>
+  <NoPrisonerBed>Nav pieejama cietumnieka gulta slēgtā telpā.</NoPrisonerBed>
+  <NoNonPrisonerBed>Nav pieejama izmantojama ne-cietumnieka gulta.</NoNonPrisonerBed>
+  <Reserved>Rezervēta kādam citam.</Reserved>
+  <ReservedBy>Rezervēta priekš {0}</ReservedBy>
+  <IsReservedBy>{0} ir rezervēta priekš {1}.</IsReservedBy>
+
+  <NoManipulationSkill>nespējīgs</NoManipulationSkill>
+
+  <Equip>Uzvilkt {0}</Equip>
+  <EquipWarningBrawler>(cīnītājs būs nelaimīgs)</EquipWarningBrawler>
+  <CannotEquip>Nevar uzvilkt {0}</CannotEquip>
+  
+  <Wear>Wear {0}</Wear>
+  <CannotWear>Cannot wear {0}</CannotWear>
+  
+  <Strip>Izģērbt {0}</Strip>
+  <CannotStrip>Nevar izģērbt {0}</CannotStrip>
+
+  <Deposit>Noguldīt {0} in {1}</Deposit>
+  <CannotDeposit>Nevar noguldīt {0} iekš {1}</CannotDeposit>
+
+  <SelfDestructHere>Pašiznīcināties šeit</SelfDestructHere>
+  
+  <Drop>Nomest {0}</Drop>
+  
+  <UseMedicalBed>Atpūsties līdz pilnībā atveseļojies</UseMedicalBed>
+  <NotInjured>Nav ievainots</NotInjured>
+  <SomeoneElseSleeping>Okupēts</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Iekāpt kriptomiega zārkā</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Atvērt kriptomiega zārku</OpenCryptosleepCasket>
+
+
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Nevar {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Cannot prioritize (Health problem: {0})</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Cannot prioritize ({0} is not a {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
+  
+  
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>

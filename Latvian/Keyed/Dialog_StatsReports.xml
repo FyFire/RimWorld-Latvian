@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  <StatsReport_BaseValue>Pamata vērtība</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Relevant traits</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Relevant gear</StatsReport_RelevantGear>
+  <StatsReport_Material>Materiāls</StatsReport_Material>
+  <StatsReport_CharacterQuality>Persona kvalitāte</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Prasmes</StatsReport_Skills>
+  <StatsReport_OtherStats>Citas prasmes/StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Veselība</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} svarīgums</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Gala vērtība</StatsReport_FinalValue>
+  <StatsReport_QualityMultiplier>Kvalitātes reizinātājs</StatsReport_QualityMultiplier>
+  <StatsReport_MarketValueFromStuffsAndWork>Market value calculated is from construction materials and work amount.</StatsReport_MarketValueFromStuffsAndWork>
+  
+</LanguageData>

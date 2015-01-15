@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Laiks</ClockTime>
+  <ClockDate>Datums</ClockDate>
+  <ClockYear>Gads</ClockYear>
+  <DateReadoutTip>Dienu skaits pēc ierašanās: {0}\nThere are {1} days in each month.\nCurrent season: {2}</DateReadoutTip>
+
+
+
+  <FullDate>{0} {1}, year {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>Janvāris</MonthFullJanuary>
+  <MonthFullFebruary>Februāris</MonthFullFebruary>
+  <MonthFullMarch>Marts</MonthFullMarch>
+  <MonthFullApril>Aprīlis</MonthFullApril>
+  <MonthFullMay>Maijs</MonthFullMay>
+  <MonthFullJune>Jūnijs</MonthFullJune>
+  <MonthFullJuly>Jūlijs</MonthFullJuly>
+  <MonthFullAugust>Augusts</MonthFullAugust>
+  <MonthFullSeptember>Septembris</MonthFullSeptember>
+  <MonthFullOctober>Oktobris</MonthFullOctober>
+  <MonthFullNovember>Novembris</MonthFullNovember>
+  <MonthFullDecember>Decembris</MonthFullDecember>
+
+  <MonthShortJanuary>Jan</MonthShortJanuary>
+  <MonthShortFebruary>Feb</MonthShortFebruary>
+  <MonthShortMarch>Mar</MonthShortMarch>
+  <MonthShortApril>Apr</MonthShortApril>
+  <MonthShortMay>Mai</MonthShortMay>
+  <MonthShortJune>Jūn</MonthShortJune>
+  <MonthShortJuly>Jūl</MonthShortJuly>
+  <MonthShortAugust>Aug</MonthShortAugust>
+  <MonthShortSeptember>Sept</MonthShortSeptember>
+  <MonthShortOctober>Okt</MonthShortOctober>
+  <MonthShortNovember>Nov</MonthShortNovember>
+  <MonthShortDecember>Dec</MonthShortDecember>
+    
+    
+</LanguageData>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Tumšs</Dark>
+  <Lit>Izgaimots</Lit>
+  <LitBrightly>Gaiši izgaismots</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Nekas</NoneQuality>
+  <PlantQuality>Augs</PlantQuality>
+  <RawQuality>Jēls</RawQuality>
+  <MealAwfulQuality>Briesmīgs</MealAwfulQuality>
+  <MealSimpleQuality>Vienkāršs</MealSimpleQuality>
+  <MealFineQuality>Normals</MealFineQuality>
+  <MealLavishLavish>Bagāts</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Nekad neēd</NeverEats>
+  <Omnivorous>Vissēdājs</Omnivorous>
+  <Herbivorous>Veģitārietis</Herbivorous>
+  <Carnivorous>Gaļēdājs</Carnivorous>
+  <Dendrovorous>Kokēdājs</Dendrovorous>
+
+  <!-- history upload pref -->
+  <Unspecified>Neizlēmis</Unspecified>
+  <Always>Atļaut</Always>
+  <Never>Neatļaut</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>ļoti lēti</PriceTypeVeryCheap>
+  <PriceTypeCheap>lēti</PriceTypeCheap>
+  <PriceTypeNormal>normāli</PriceTypeNormal>
+  <PriceTypeExpensive>dārgi</PriceTypeExpensive>
+  <PriceTypeExorbitant>ļoti dārgi</PriceTypeExorbitant>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>briesmīgs</QualityCategory_Awful>
+  <QualityCategory_Shoddy>slikts</QualityCategory_Shoddy>
+  <QualityCategory_Poor>švaks</QualityCategory_Poor>
+  <QualityCategory_Normal>normāls</QualityCategory_Normal>
+  <QualityCategory_Good>labs</QualityCategory_Good>
+  <QualityCategory_Superior>labāks</QualityCategory_Superior>
+  <QualityCategory_Excellent>lielisks</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>meistar darbs</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>leģendārs</QualityCategory_Legendary>
+
+
+</LanguageData>

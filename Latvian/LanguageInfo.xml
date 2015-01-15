@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Latviski</friendlyNameNative>
+  <friendlyNameEnglish>Latvian</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Andis_Savickis</creditee>
+    </li>
+  </credits>
+</LanguageInfo>
