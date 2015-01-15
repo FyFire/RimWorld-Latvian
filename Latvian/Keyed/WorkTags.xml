@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <WorkTagNone>None</WorkTagNone>
-  <WorkTagIntellectual>Intellectual</WorkTagIntellectual>
-  <WorkTagManualDumb>Dumb labor</WorkTagManualDumb>
-  <WorkTagManualSkilled>Skilled labor</WorkTagManualSkilled>
-  <WorkTagViolent>Violent</WorkTagViolent>
-  <WorkTagCaring>Caring</WorkTagCaring>
-  <WorkTagSocial>Social</WorkTagSocial>
-  <WorkTagScary>Scary</WorkTagScary>
-  <WorkTagArtistic>Artistic</WorkTagArtistic>
-  <WorkTagCrafting>Crafting</WorkTagCrafting>
+  <WorkTagNone>Nekas</WorkTagNone>
+  <WorkTagIntellectual>Intelektuāls</WorkTagIntellectual>
+  <WorkTagManualDumb>Stulbs strādnieks</WorkTagManualDumb>
+  <WorkTagManualSkilled>Prasmīgs strādnieks</WorkTagManualSkilled>
+  <WorkTagViolent>Varmācīgs</WorkTagViolent>
+  <WorkTagCaring>Rūpīgs</WorkTagCaring>
+  <WorkTagSocial>Runātīgs</WorkTagSocial>
+  <WorkTagScary>Biedējošs</WorkTagScary>
+  <WorkTagArtistic>Māksliniecisks</WorkTagArtistic>
+  <WorkTagCrafting>Izgatavošana</WorkTagCrafting>
   <WorkTagCooking>Ēdiena gatavošana</WorkTagCooking>
-  <WorkTagFirefighting>Firefighting</WorkTagFirefighting>
+  <WorkTagFirefighting>Uguns dzēšana</WorkTagFirefighting>
   <WorkTagCleaning>Tīrīšana</WorkTagCleaning>
-  <WorkTagHauling>Hauling</WorkTagHauling>
-  <WorkTagPlantWork>Plant work</WorkTagPlantWork>
-  <WorkTagMining>Mining</WorkTagMining>
+  <WorkTagHauling>Savākšana</WorkTagHauling>
+  <WorkTagPlantWork>Augkopība work</WorkTagPlantWork>
+  <WorkTagMining>Rakšana</WorkTagMining>
 
 </LanguageData>
