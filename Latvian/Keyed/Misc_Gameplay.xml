@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿�ie��<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Various -->
   <WorkLeft>Atlikušais darbs</WorkLeft>
-  <Contents>Contents</Contents>
-  <ContainedResources>Contained resources</ContainedResources>
+  <Contents>Saturs</Contents>
+  <ContainedResources>Esošie resursi</ContainedResources>
   <ForPrisonerUse>Priekš cietumniekiem</ForPrisonerUse>
   <ForColonistUse>Priekš kolonistiem</ForColonistUse>
-  <MedicalBed>Medical</MedicalBed>
+  <MedicalBed>Slimnieku</MedicalBed>
   <Owner>Īpašnieks</Owner>
   <Nobody>Neviens</Nobody>
   <Unowned>Nepiederošs</Unowned>
   <DeadTime>Beigts {0}</DeadTime>
   <WalkSpeed>Iešanas ātrums {0}</WalkSpeed>
   <DyingLower>mirst</DyingLower>
-  <FilthOnFeet>Filth on feet:</FilthOnFeet>
-  <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
+  <FilthOnFeet>Dubļi uz kājām:</FilthOnFeet>
+  <NotEnoughStoredLower>nepietiekami krājumi</NotEnoughStoredLower>
   <NothingLower>nekas</NothingLower>
-  <Adapted>Adapted</Adapted>
+  <Adapted>Pielāgojies</Adapted>
   <Headshot>Trāpīts galvā</Headshot>
   <FreshMissingBodyPart>svaigs</FreshMissingBodyPart>
   <UntreatedLower>neapkopts</UntreatedLower>
   <DevelopedImmunityLower>ieguvis immunitāti</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>requires treatment to heal</InjuryRequiresTreatment>
-  <NextTreatmentAfter>next treatment after {0} days</NextTreatmentAfter>
-  <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>immunity development progress</ImmunityDevelopmentProgress>
-  <Race>Race</Race>
+  <InjuryRequiresTreatment>nepieciešama aprūpe lai atveseļotos</InjuryRequiresTreatment>
+  <NextTreatmentAfter>nākošā aprūpe pēc {0} dienām</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>nē {0}</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>imunitātes attīstības progress</ImmunityDevelopmentProgress>
+  <Race>Rase</Race>
   <Description>Apraksts</Description>
   <Equipment>Ekipējums</Equipment>
-  <Apparel>Apparel</Apparel>
-  <Inventory>Inventory</Inventory>
+  <Apparel>Apģērbs</Apparel>
+  <Inventory>inventārs</Inventory>
   <ThingInfo>Informācija</ThingInfo>
   <DropThing>Nomest</DropThing>
   <RenameColonist>Pārsaukt kolonistu</RenameColonist>
@@ -47,26 +47,26 @@
   <!-- Turrets -->
   <GunInstalled>Installēts</GunInstalled>
   <MinimumRange>Minimāls redzes loks</MinimumRange>
-  <CanFireIn>Can fire in</CanFireIn>
+  <CanFireIn>Var šaut pēc</CanFireIn>
   
   
   <!-- Job reports -->
-	<ReportHaulingTo>Hauling {0} to {1}.</ReportHaulingTo>
-	<ReportHauling>Hauling {0}.</ReportHauling>
+	<ReportHaulingTo>Savākt {0} uz {1}.</ReportHaulingTo>
+	<ReportHauling>Savākšana {0}.</ReportHauling>
   <ReportSleeping>Guļ.</ReportSleeping>
   <ReportResting>Atpūšās.</ReportResting>
   
 	<!-- Shooting report -->
-  <WeaponMissRadius>Weapon miss radius</WeaponMissRadius>
-	<ShootReportShooterAbility>Shooter</ShootReportShooterAbility>
+  <WeaponMissRadius>Ieroča precizitātes rādiuss</WeaponMissRadius>
+	<ShootReportShooterAbility>Šāvējs</ShootReportShooterAbility>
 	<ShootReportWeapon>Ierocis</ShootReportWeapon>
 	<Darkness>Tumsa</Darkness>
-	<TargetProne>Target prone</TargetProne>
-	<TargetSize>Target size</TargetSize>
+	<TargetProne>Mērķa nosliece</TargetProne>
+	<TargetSize>Mērķa izmērs</TargetSize>
 	<Weather>Laikapstakļi</Weather>
-	<ShootingCover>Cover</ShootingCover>
-	<CoverThingBlocksPercentOfShots>{0} stops {1}</CoverThingBlocksPercentOfShots>
-	<NoCoverLower>no cover</NoCoverLower>
+	<ShootingCover>Aizsegs</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} apstājas {1}</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>nav aizsgea</NoCoverLower>
 	
   <!-- Generated recipes -->
   <RecipeMake>Izveidot {0}</RecipeMake>
@@ -74,89 +74,89 @@
   
 	<!-- Status levels -->
   <Mood>Garastāvoklis</Mood>
-  <MoodTip>Mood is sustained by fulfilling physical and psychological needs.\n\nIf someone's mood gets too low, they may suffer a mental break.</MoodTip>
+  <MoodTip>Garastāvokli saglabā normas robežās izpildot fiziskās un psiholoģiskās vajadzības.\n\nJa kādam garastāvoklis ir pārāk zems, ir iespējams garīgais sabrukums.</MoodTip>
   <Food>Ēdiens</Food>
-  <FoodTip>Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will take starvation damage over time.</FoodTip>
-  <Rest>Rest</Rest>
-  <RestTip>Rest is how much quality relaxation and sleep a person gets.\n\nIt rises to a maximum when someone sleeps in a bed. Outside of bed, it falls over time.</RestTip>
-  <Environment>Environment</Environment>
-  <EnvironmentTip>Environment reflects how pleasing a person finds their surroundings.\n\nEnvironment is high when people are in spacious rooms with beautiful decorations. It is poor when their surroundings are ugly.</EnvironmentTip>
+  <FoodTip>Ēdiens ir uztura daudzums ko radība nesen ir saņēmusi. Ja tas ir uz 0, radība laika gaitā saņems ievainojumus dēļ bada.</FoodTip>
+  <Rest>Atpūta</Rest>
+  <RestTip>Atpūta rāda cik daudz persona gūst kvalitatīvu miegu un atpūtu.\n\nTā sasniedz maksimumu kad kāds guļ gultā. Ārpus gultas, tā laika gaitā krītās.</RestTip>
+  <Environment>Vide</Environment>
+  <EnvironmentTip>Vide attiecās uz to, cik patīkamu apkārtni uztver persona.\n\nVide ir augstā līmenī kad personām ir lielas istabas ar skaistām dekorācijām. Tā ir zema ja apkārtne ir neglīta.</EnvironmentTip>
   <Openness>Openness</Openness>
 
   
   <!-- Thoughts -->
-  <ThoughtExpiresIn>Expires in: {0}</ThoughtExpiresIn>
-  <ThoughtStartsExpiringIn>Starts expiring in: {0}</ThoughtStartsExpiringIn>
-  <ThoughtFinishesExpiringIn>Finishes expiring in: {0}</ThoughtFinishesExpiringIn>
-  <MentalBreakThreshold>Mental break threshold</MentalBreakThreshold>
+  <ThoughtExpiresIn>Beidzas pēc: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Sāks beigties pēc: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Beidzas pēc: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThreshold>Garīgā sabrukuma slieksnis</MentalBreakThreshold>
 
 
   <!-- Pawn info readout -->
   <Health>Veselība</Health>
-  <PawnMainDescWithFactionGendered>{0} {1} of {2}</PawnMainDescWithFactionGendered>
+  <PawnMainDescWithFactionGendered>{0} {1} no {2}</PawnMainDescWithFactionGendered>
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
-  <PawnMainDescWithFactionGenderless>{0} of {1}</PawnMainDescWithFactionGenderless>
+  <PawnMainDescWithFactionGenderless>{0} no {1}</PawnMainDescWithFactionGenderless>
   <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
-  <Faction>Faction</Faction>
-  <Equipped>Equipped</Equipped>
+  <Faction>Frakcija</Faction>
+  <Equipped>Aprīkots</Equipped>
   <EquippedNothing>Nekas</EquippedNothing>
-  <Incapacitated>Incapacitated</Incapacitated>
-  <InRestraints>In restraints (slowed)</InRestraints>
-  <Carrying>Carrying</Carrying>
-  <SanityDazedWander>Broken: Dazed and wandering</SanityDazedWander>
-  <SanityGiveUpExit>Broken: Given up and leaving</SanityGiveUpExit>
-  <SanityPanicFlee>Broken: Fleeing in panic</SanityPanicFlee>
-  <SanityPsychotic>Broken: Psychotic rampage</SanityPsychotic>
+  <Incapacitated>Nespējīgs</Incapacitated>
+  <InRestraints>Ierobežots (palēlināts)</InRestraints>
+  <Carrying>Nes</Carrying>
+  <SanityDazedWander>Padevies:Apjucis Klaiņo</SanityDazedWander>
+  <SanityGiveUpExit>Padevies: Pamet koloniju</SanityGiveUpExit>
+  <SanityPanicFlee>Padevies: Atkāpjas panikā</SanityPanicFlee>
+  <SanityPsychotic>Padevies: Psihiski trako</SanityPsychotic>
 
   <!-- Inspector general stuff -->
-  <SelectNextInSquareTip>Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
-  <DefInfoTip>View information about this object.</DefInfoTip>
+  <SelectNextInSquareTip>Atzīmē nākošo lietu tajā pašā zonā.\n\nĪssinājuma taustiņš: {0}\n\nTu vari izdarīt to pašu arī lēnām klikšķinot esošo zonu vēlreiz.</SelectNextInSquareTip>
+  <DefInfoTip>Apskatīt informāciju par šo objektu.</DefInfoTip>
   
   
 	<!-- like 'Blood of John' -->
-	<OfLower>of</OfLower>
+	<OfLower></OfLower>
 
 	<!-- Power readout -->
-	<PowerNotConnected>Not connected to power.</PowerNotConnected>
-  <PowerConnectedRateStored>Connected rate/stored: {0} W / {1} Wd</PowerConnectedRateStored>
-  <PowerNeeded>Power needed</PowerNeeded>
-  <PowerOutput>Power output</PowerOutput>
-  <PowerBatteryStored>Stored</PowerBatteryStored>
-  <PowerBatteryEfficiency>Efficiency</PowerBatteryEfficiency>
+	<PowerNotConnected>Nav pievienots elektropadevei.</PowerNotConnected>
+  <PowerConnectedRateStored>Savienojuma ātrums/uzglabāts: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerNeeded>Nepieciešama elektrība</PowerNeeded>
+  <PowerOutput>Elektrības izvade</PowerOutput>
+  <PowerBatteryStored>Uzglabāts</PowerBatteryStored>
+  <PowerBatteryEfficiency>Efektivitāte</PowerBatteryEfficiency>
 
   <!-- Temperature control -->
-  <TargetTemperature>Target temperature</TargetTemperature>
-  <PowerConsumptionMode>Current power use</PowerConsumptionMode>
-  <PowerConsumptionHigh>High</PowerConsumptionHigh>
-  <PowerConsumptionLow>Low</PowerConsumptionLow>
+  <TargetTemperature>Mērķa temperatūra</TargetTemperature>
+  <PowerConsumptionMode>Pašreizējais elektrības patēriņš</PowerConsumptionMode>
+  <PowerConsumptionHigh>Augts</PowerConsumptionHigh>
+  <PowerConsumptionLow>Zems</PowerConsumptionLow>
   
   <!-- Temperature readout -->
-  <Indoors>Ikšā</Indoors>
+  <Indoors>Iekšā</Indoors>
   <Outdoors>Ārpusē</Outdoors>
   
   <!--Rotting-->
 	<RotStateFresh>Svaigs</RotStateFresh>
 	<RotStateRotting>Sapuvis</RotStateRotting>
-	<RotStateDessicated>Dessicated</RotStateDessicated>
+	<RotStateDessicated>Sakaltis</RotStateDessicated>
 	
   <!-- Shooting tooltip -->
-  <ShotBy>Shot by {0}</ShotBy>
-  <CannotHit>Cannot hit target.</CannotHit>
+  <ShotBy>Sašāvis {0}</ShotBy>
+  <CannotHit>Nevar trāpīt mērķim.</CannotHit>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>Unstored</StoragePriorityUnstored>
-  <StoragePriorityLow>Low</StoragePriorityLow>
-  <StoragePriorityNormal>Normal</StoragePriorityNormal>
-  <StoragePriorityPreferred>Preferred</StoragePriorityPreferred>
-  <StoragePriorityImportant>Important</StoragePriorityImportant>
-  <StoragePriorityCritical>Critical</StoragePriorityCritical>
+  <StoragePriorityUnstored>Nav uzglabāts</StoragePriorityUnstored>
+  <StoragePriorityLow>Zems</StoragePriorityLow>
+  <StoragePriorityNormal>Normāls</StoragePriorityNormal>
+  <StoragePriorityPreferred>Ieteiktais</StoragePriorityPreferred>
+  <StoragePriorityImportant>Svarīgs</StoragePriorityImportant>
+  <StoragePriorityCritical>Kritisks</StoragePriorityCritical>
 
 
   <!-- Rotting -->
   <CurrentlyFrozen>Sasalis (nesabojāsies)</CurrentlyFrozen>
-  <CurrentlyRefrigerated>Refrigerated (Spoils in {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Not refrigerated (Spoils in {0})</NotRefrigerated>
-  <OverADecade>over a decade</OverADecade>
+  <CurrentlyRefrigerated>Atdzesēts (Sabojāsies pēc {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Nav atdzesēts (Sabojāsies pēc {0})</NotRefrigerated>
+  <OverADecade>vairāk nekā desmit gadus</OverADecade>
   
   <!-- Meal -->
   <Ingredients>Sastāvdaļas</Ingredients>
@@ -165,28 +165,28 @@
   <PercentGrowth>{0}% izaudzis</PercentGrowth>
   <Growing>Aug</Growing>
   <NotGrowingNow>Šobrīd neaug (needs to be {0}).</NotGrowingNow>
-  <NotGrowingNowNight>Not growing now (night time).</NotGrowingNowNight>
-  <FullyGrownIn>Fully grown in {0} of growth.</FullyGrownIn>
-  <OutOfIdealTemperatureRange>Out of ideal temperature range (growing at {0}% of normal speed)</OutOfIdealTemperatureRange>
-  <OutOfIdealTemperatureRangeNotGrowing>Out of ideal temperature range (not growing)</OutOfIdealTemperatureRangeNotGrowing>
-  <ReadyToHarvest>Gatavs novākšanai to harvest.</ReadyToHarvest>
-  <Mature>Mature.</Mature>
+  <NotGrowingNowNight>Šobrīd neaug (nakts).</NotGrowingNowNight>
+  <FullyGrownIn>Pilnībā izaudzis {0} no 100%.</FullyGrownIn>
+  <OutOfIdealTemperatureRange>Ārpus ideālās temperatūras rādiusa (aug {0}% ātrumā pret normālo ātrumu)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Ārpus ideālās temperatūras rādiusa (neaug)</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>Gatavs novākšanai.</ReadyToHarvest>
+  <Mature>Nobriedis.</Mature>
   <SeedLabel>{0} sēkla</SeedLabel>
-  <OutdoorGrowingPeriod>Growing period: {0}</OutdoorGrowingPeriod>
-  <NoGrowingPeriod>Never</NoGrowingPeriod>
-  <GrowYearRound>Year-round</GrowYearRound>
-  <CannotGrowTooCold>Cannot grow - too cold.</CannotGrowTooCold>
+  <OutdoorGrowingPeriod>Augšanas periods: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Nekad</NoGrowingPeriod>
+  <GrowYearRound>Gada laikā</GrowYearRound>
+  <CannotGrowTooCold>Nevar augt - pārāk auksts.</CannotGrowTooCold>
 
   <!-- Zones -->
-  <Zone>Zone</Zone>
-  <GrowingZone>Growing zone</GrowingZone>
-  <Stockpile>Stockpile</Stockpile>
-  <DumpingStockpile>Dumping stockpile</DumpingStockpile>
-  <Priority>Priority</Priority>
-  <ClearAll>Clear all</ClearAll>
+  <Zone>Zona</Zone>
+  <GrowingZone>Audzēšanas zona</GrowingZone>
+  <Stockpile>Glabātuve</Stockpile>
+  <DumpingStockpile>Atkritumu glabātuve</DumpingStockpile>
+  <Priority>Prioritāte</Priority>
+  <ClearAll>Attīrīt visu</ClearAll>
 
   <!-- Mouseover indicator -->
-  <Undiscovered>Undiscovered</Undiscovered>
+  <Undiscovered>Neatklāts</Undiscovered>
   
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Toggle visiblity of zones.</ZoneVisibilityToggleButton>
